@@ -1,1 +1,2 @@
 print("vasheeee");
+print("chto eto takoe chtooooo");
